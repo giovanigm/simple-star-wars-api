@@ -10,6 +10,7 @@ module.exports = [
         "birth_year": "19BBY",
         "gender": "male",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=luke_skywalker.jpg"
     },
     {
         "id": 2,
@@ -22,6 +23,7 @@ module.exports = [
         "birth_year": "112BBY",
         "gender": "n/a",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=C_3PO.jpeg"
     },
     {
         "id": 3,
@@ -34,6 +36,7 @@ module.exports = [
         "birth_year": "33BBY",
         "gender": "n/a",
         "homeworld": "Naboo",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=R2_D2.jpg"
     },
     {
         "id": 4,
@@ -46,6 +49,7 @@ module.exports = [
         "birth_year": "41.9BBY",
         "gender": "male",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Darth+Vader.jpg"
     },
     {
         "id": 5,
@@ -58,6 +62,7 @@ module.exports = [
         "birth_year": "19BBY",
         "gender": "female",
         "homeworld": "Alderaan",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Leia+Organa.jpg"
     },
     {
         "id": 6,
@@ -70,6 +75,7 @@ module.exports = [
         "birth_year": "52BBY",
         "gender": "male",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Owen+Lars.jpg"
     },
     {
         "id": 7,
@@ -82,6 +88,7 @@ module.exports = [
         "birth_year": "47BBY",
         "gender": "female",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Beru+Whitesun+lars.jpg"
     },
     {
         "id": 8,
@@ -94,6 +101,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "n/a",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=R5-D4.jpg"
     },
     {
         "id": 9,
@@ -106,6 +114,7 @@ module.exports = [
         "birth_year": "24BBY",
         "gender": "male",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Biggs+Darklighter.jpeg"
     },
     {
         "id": 10,
@@ -118,6 +127,7 @@ module.exports = [
         "birth_year": "57BBY",
         "gender": "male",
         "homeworld": "Stewjon",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Obi-Wan+Kenobi.jpg"
     },
     {
         "id": 11,
@@ -130,6 +140,7 @@ module.exports = [
         "birth_year": "41.9BBY",
         "gender": "male",
         "homeworld": "Tatooine",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Anakin+Skywalker.jpg"
     },
     {
         "id": 12,
@@ -142,6 +153,7 @@ module.exports = [
         "birth_year": "64BBY",
         "gender": "male",
         "homeworld": "Eriadu",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Wilhuff+Tarkin.jpg"
     },
     {
         "id": 13,
@@ -154,6 +166,7 @@ module.exports = [
         "birth_year": "200BBY",
         "gender": "male",
         "homeworld": "Kashyyyk",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Chewbacca.jpeg"
     },
     {
         "id": 14,
@@ -166,6 +179,7 @@ module.exports = [
         "birth_year": "29BBY",
         "gender": "male",
         "homeworld": "Corellia",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Han+Solo.jpg"
     },
     {
         "id": 15,
@@ -178,6 +192,7 @@ module.exports = [
         "birth_year": "44BBY",
         "gender": "male",
         "homeworld": "Rodia",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Greedo.jpg"
     },
     {
         "id": 16,
@@ -190,6 +205,7 @@ module.exports = [
         "birth_year": "600BBY",
         "gender": "hermaphrodite",
         "homeworld": "Nal Hutta",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Jabba_the_Hutt.png"
     },
     {
         "id": 17,
@@ -202,6 +218,7 @@ module.exports = [
         "birth_year": "21BBY",
         "gender": "male",
         "homeworld": "Corellia",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Wedge+Antilles.jpeg"
     },
     {
         "id": 18,
@@ -214,6 +231,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "Bestine IV",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=jek+Porkins.jpg"
     },
     {
         "id": 19,
@@ -226,6 +244,7 @@ module.exports = [
         "birth_year": "896BBY",
         "gender": "male",
         "homeworld": "unknown",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=yoda.jpg"
     },
     {
         "id": 20,
@@ -238,6 +257,7 @@ module.exports = [
         "birth_year": "82BBY",
         "gender": "male",
         "homeworld": "Naboo",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=palpatine.jpg"
     },
     {
         "id": 21,
@@ -250,6 +270,7 @@ module.exports = [
         "birth_year": "31.5BBY",
         "gender": "male",
         "homeworld": "Kamino",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Boba+Fett.jpeg"
     },
     {
         "id": 22,
@@ -262,6 +283,7 @@ module.exports = [
         "birth_year": "15BBY",
         "gender": "none",
         "homeworld": "unknown",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=ig+88.jpeg"
     },
     {
         "id": 23,
@@ -274,6 +296,7 @@ module.exports = [
         "birth_year": "53BBY",
         "gender": "male",
         "homeworld": "Trandosha",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Bossk.jpg"
     },
     {
         "id": 24,
@@ -286,6 +309,7 @@ module.exports = [
         "birth_year": "31BBY",
         "gender": "male",
         "homeworld": "Socorro",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=lando.jpg"
     },
     {
         "id": 25,
@@ -298,6 +322,7 @@ module.exports = [
         "birth_year": "37BBY",
         "gender": "male",
         "homeworld": "Bespin",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=lobot.jpeg"
     },
     {
         "id": 26,
@@ -310,6 +335,7 @@ module.exports = [
         "birth_year": "41BBY",
         "gender": "male",
         "homeworld": "Mon Cala",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=Ackbar.jpg"
     },
     {
         "id": 27,
@@ -322,6 +348,7 @@ module.exports = [
         "birth_year": "48BBY",
         "gender": "female",
         "homeworld": "Chandrila",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=mon+mothma.jpeg"
     },
     {
         "id": 28,
@@ -334,6 +361,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "unknown",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=arvel+crynyd.jpg"
     },
     {
         "id": 29,
@@ -346,6 +374,7 @@ module.exports = [
         "birth_year": "8BBY",
         "gender": "male",
         "homeworld": "Endor",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=wicket+twwarrick.jpeg"
     },
     {
         "id": 30,
@@ -358,5 +387,6 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "Sullust",
+        "image_url": "https://www.dropbox.com/home/Public/StarWarsCharacters?preview=nien+nunb.jpeg"
     }
 ];
