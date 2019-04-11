@@ -10,7 +10,7 @@ module.exports = [
         "birth_year": "19BBY",
         "gender": "male",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/72pi1ldybb8ngr5/luke_skywalker.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/72pi1ldybb8ngr5/luke_skywalker.jpg?dl=1"
     },
     {
         "id": 2,
@@ -23,7 +23,7 @@ module.exports = [
         "birth_year": "112BBY",
         "gender": "n/a",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/4v9qwc4qzpfem6b/C_3PO.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/4v9qwc4qzpfem6b/C_3PO.jpeg?dl=1"
     },
     {
         "id": 3,
@@ -36,7 +36,7 @@ module.exports = [
         "birth_year": "33BBY",
         "gender": "n/a",
         "homeworld": "Naboo",
-        "image_url": "https://www.dropbox.com/s/z0bkcl2moq29d9j/R2_D2.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/z0bkcl2moq29d9j/R2_D2.jpg?dl=1"
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@ module.exports = [
         "birth_year": "41.9BBY",
         "gender": "male",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/8hn8dlzoe0kfexv/Darth%20Vader.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/8hn8dlzoe0kfexv/Darth%20Vader.jpg?dl=1"
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@ module.exports = [
         "birth_year": "19BBY",
         "gender": "female",
         "homeworld": "Alderaan",
-        "image_url": "https://www.dropbox.com/s/kybaqrt2hhl3q2t/Leia%20Organa.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/kybaqrt2hhl3q2t/Leia%20Organa.jpg?dl=1"
     },
     {
         "id": 6,
@@ -75,7 +75,7 @@ module.exports = [
         "birth_year": "52BBY",
         "gender": "male",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/laqrc8qk5654vqm/Owen%20Lars.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/laqrc8qk5654vqm/Owen%20Lars.jpg?dl=1"
     },
     {
         "id": 7,
@@ -88,7 +88,7 @@ module.exports = [
         "birth_year": "47BBY",
         "gender": "female",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/n837rlyovql3dr0/Beru%20Whitesun%20lars.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/n837rlyovql3dr0/Beru%20Whitesun%20lars.jpg?dl=1"
     },
     {
         "id": 8,
@@ -101,7 +101,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "n/a",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/94tpfyu9fqj71a9/R5-D4.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/94tpfyu9fqj71a9/R5-D4.jpg?dl=1"
     },
     {
         "id": 9,
@@ -114,7 +114,7 @@ module.exports = [
         "birth_year": "24BBY",
         "gender": "male",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/f5uqn9czj6zgrwt/Biggs%20Darklighter.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/f5uqn9czj6zgrwt/Biggs%20Darklighter.jpeg?dl=1"
     },
     {
         "id": 10,
@@ -127,7 +127,7 @@ module.exports = [
         "birth_year": "57BBY",
         "gender": "male",
         "homeworld": "Stewjon",
-        "image_url": "https://www.dropbox.com/s/0d6bzd0bttlftqx/Obi-Wan%20Kenobi.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/0d6bzd0bttlftqx/Obi-Wan%20Kenobi.jpg?dl=1"
     },
     {
         "id": 11,
@@ -140,7 +140,7 @@ module.exports = [
         "birth_year": "41.9BBY",
         "gender": "male",
         "homeworld": "Tatooine",
-        "image_url": "https://www.dropbox.com/s/6mztz1epx2sh94z/Anakin%20Skywalker.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/6mztz1epx2sh94z/Anakin%20Skywalker.jpg?dl=1"
     },
     {
         "id": 12,
@@ -153,7 +153,7 @@ module.exports = [
         "birth_year": "64BBY",
         "gender": "male",
         "homeworld": "Eriadu",
-        "image_url": "https://www.dropbox.com/s/m1dbshz9iefjl9j/Wilhuff%20Tarkin.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/m1dbshz9iefjl9j/Wilhuff%20Tarkin.jpg?dl=1"
     },
     {
         "id": 13,
@@ -166,7 +166,7 @@ module.exports = [
         "birth_year": "200BBY",
         "gender": "male",
         "homeworld": "Kashyyyk",
-        "image_url": "https://www.dropbox.com/s/1pilmh99maen3ag/Chewbacca.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/1pilmh99maen3ag/Chewbacca.jpeg?dl=1"
     },
     {
         "id": 14,
@@ -179,7 +179,7 @@ module.exports = [
         "birth_year": "29BBY",
         "gender": "male",
         "homeworld": "Corellia",
-        "image_url": "https://www.dropbox.com/s/uyo6v2vi2whekqg/Han%20Solo.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/uyo6v2vi2whekqg/Han%20Solo.jpg?dl=1"
     },
     {
         "id": 15,
@@ -192,7 +192,7 @@ module.exports = [
         "birth_year": "44BBY",
         "gender": "male",
         "homeworld": "Rodia",
-        "image_url": "https://www.dropbox.com/s/d5y58rwobd8qd17/Greedo.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/d5y58rwobd8qd17/Greedo.jpg?dl=1"
     },
     {
         "id": 16,
@@ -205,7 +205,7 @@ module.exports = [
         "birth_year": "600BBY",
         "gender": "hermaphrodite",
         "homeworld": "Nal Hutta",
-        "image_url": "https://www.dropbox.com/s/poab5nqwhp4p8yt/Jabba_the_Hutt.png?dl=0"
+        "image_url": "https://www.dropbox.com/s/poab5nqwhp4p8yt/Jabba_the_Hutt.png?dl=1"
     },
     {
         "id": 17,
@@ -218,7 +218,7 @@ module.exports = [
         "birth_year": "21BBY",
         "gender": "male",
         "homeworld": "Corellia",
-        "image_url": "https://www.dropbox.com/s/y547ix11kd0cpsy/Wedge%20Antilles.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/y547ix11kd0cpsy/Wedge%20Antilles.jpeg?dl=1"
     },
     {
         "id": 18,
@@ -231,7 +231,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "Bestine IV",
-        "image_url": "https://www.dropbox.com/s/ub3rrg71wbe4eq8/jek%20Porkins.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/ub3rrg71wbe4eq8/jek%20Porkins.jpg?dl=1"
     },
     {
         "id": 19,
@@ -244,7 +244,7 @@ module.exports = [
         "birth_year": "896BBY",
         "gender": "male",
         "homeworld": "unknown",
-        "image_url": "https://www.dropbox.com/s/x8ezfqjs2xa4mxq/yoda.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/x8ezfqjs2xa4mxq/yoda.jpg?dl=1"
     },
     {
         "id": 20,
@@ -257,7 +257,7 @@ module.exports = [
         "birth_year": "82BBY",
         "gender": "male",
         "homeworld": "Naboo",
-        "image_url": "https://www.dropbox.com/s/yl0nxv9rnlbh7dp/palpatine.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/yl0nxv9rnlbh7dp/palpatine.jpg?dl=1"
     },
     {
         "id": 21,
@@ -270,7 +270,7 @@ module.exports = [
         "birth_year": "31.5BBY",
         "gender": "male",
         "homeworld": "Kamino",
-        "image_url": "https://www.dropbox.com/s/av0xxck88a23mca/Boba%20Fett.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/av0xxck88a23mca/Boba%20Fett.jpeg?dl=1"
     },
     {
         "id": 22,
@@ -283,7 +283,7 @@ module.exports = [
         "birth_year": "15BBY",
         "gender": "none",
         "homeworld": "unknown",
-        "image_url": "https://www.dropbox.com/s/h9qdnbh46hq3ubk/ig%2088.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/h9qdnbh46hq3ubk/ig%2088.jpeg?dl=1"
     },
     {
         "id": 23,
@@ -296,7 +296,7 @@ module.exports = [
         "birth_year": "53BBY",
         "gender": "male",
         "homeworld": "Trandosha",
-        "image_url": "https://www.dropbox.com/s/f5vds88u9dch9x6/Bossk.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/f5vds88u9dch9x6/Bossk.jpg?dl=1"
     },
     {
         "id": 24,
@@ -309,7 +309,7 @@ module.exports = [
         "birth_year": "31BBY",
         "gender": "male",
         "homeworld": "Socorro",
-        "image_url": "https://www.dropbox.com/s/hofhk9tg01rctnz/lando.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/hofhk9tg01rctnz/lando.jpg?dl=1"
     },
     {
         "id": 25,
@@ -322,7 +322,7 @@ module.exports = [
         "birth_year": "37BBY",
         "gender": "male",
         "homeworld": "Bespin",
-        "image_url": "https://www.dropbox.com/s/16njx1cu3cjawwf/lobot.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/16njx1cu3cjawwf/lobot.jpeg?dl=1"
     },
     {
         "id": 26,
@@ -335,7 +335,7 @@ module.exports = [
         "birth_year": "41BBY",
         "gender": "male",
         "homeworld": "Mon Cala",
-        "image_url": "https://www.dropbox.com/s/r2ffcvdmu1r6djj/Ackbar.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/r2ffcvdmu1r6djj/Ackbar.jpg?dl=1"
     },
     {
         "id": 27,
@@ -348,7 +348,7 @@ module.exports = [
         "birth_year": "48BBY",
         "gender": "female",
         "homeworld": "Chandrila",
-        "image_url": "https://www.dropbox.com/s/grak6dr1lf65qwc/mon%20mothma.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/grak6dr1lf65qwc/mon%20mothma.jpeg?dl=1"
     },
     {
         "id": 28,
@@ -361,7 +361,7 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "unknown",
-        "image_url": "https://www.dropbox.com/s/hq27jnsn4ry9zc2/arvel%20crynyd.jpg?dl=0"
+        "image_url": "https://www.dropbox.com/s/hq27jnsn4ry9zc2/arvel%20crynyd.jpg?dl=1"
     },
     {
         "id": 29,
@@ -374,7 +374,7 @@ module.exports = [
         "birth_year": "8BBY",
         "gender": "male",
         "homeworld": "Endor",
-        "image_url": "https://www.dropbox.com/s/v4bsgm25dj409cs/wicket%20twwarrick.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/v4bsgm25dj409cs/wicket%20twwarrick.jpeg?dl=1"
     },
     {
         "id": 30,
@@ -387,6 +387,6 @@ module.exports = [
         "birth_year": "unknown",
         "gender": "male",
         "homeworld": "Sullust",
-        "image_url": "https://www.dropbox.com/s/t2goqvxniadncip/nien%20nunb.jpeg?dl=0"
+        "image_url": "https://www.dropbox.com/s/t2goqvxniadncip/nien%20nunb.jpeg?dl=1"
     }
 ];
